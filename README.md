@@ -26,4 +26,15 @@ For setting up the project environment, you will need to install certain Python 
 Use the following commands to install the required packages:
 
 - **Pandas**: A powerful data manipulation and analysis library.
+- [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
+
+- **Beautiful Soup**: A library that makes it easy to scrape information from web pages.
+pip install beautifulsoup4
+[Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+
+### Module Import
+
+- **Regex**: A module for working with regular expressions.
+```python
+import re
 
