@@ -1,4 +1,4 @@
-# BBC-website-scraping
+# mlobjanidze
 This repository includes two main Jupyter notebooks:
 
 1. **BBC Movie Data Scraping**: The first notebook is dedicated to scraping a [BBC page](<link-to-BBC-page>) for various details including:
