@@ -1,4 +1,4 @@
-                                                         # Hi, I'm Mariam Lobjanidze!
+# Hi, I'm Mariam Lobjanidze!
 
 ## About Me
 
