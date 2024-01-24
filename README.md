@@ -10,8 +10,9 @@ Feel free to reach out to me at [ml4998@columbia.edu](mailto:ml4998@columbia.edu
 
 ## Projects
 
+### BBC 21st century greatest films
 
-<img src="BBC.jpg">
+<img src="BBC.jpg"> 
 
 In the BBC movie project, I scraped this BBC website using Beautiful Soup, Playwright, and regular Expressions. As a result, I created a searchable database (multiple CSV files) that includes a list of all the directors from the website, movie names, critic names, director nationalities, and links to their homepages on IMBD. 
 
