@@ -1,4 +1,13 @@
-# mlobjanidze
+# Hi, I'm Mariam Lobjanidze!
+
+## About Me
+
+I'm a journalist based in New York City specializing in covering business stories through the lens of data. I am currently pursuing an M.S in Data Journalism.
+
+## Contact
+
+Feel free to reach out to me at [ml4998@columbia.edu](mailto:ml4998@columbia.edu).
+
 This repository includes two main Jupyter notebooks:
 
 1. **BBC Movie Data Scraping**: The first notebook is dedicated to scraping a [BBC page](<link-to-BBC-page>) for various details including:
