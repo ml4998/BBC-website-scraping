@@ -6,7 +6,7 @@ I'm a journalist based in New York City specializing in covering business storie
 
 ## Contact
 
-Feel free to reach out to me at [ml4998@columbia.edu](mailto:ml4998@columbia.edu).
+Feel free to reach out to me at ml4998@columbia.edu
 
 This repository includes two main Jupyter notebooks:
 
