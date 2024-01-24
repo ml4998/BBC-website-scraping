@@ -2,27 +2,25 @@
 
 ## About Me
 
-I'm a journalist based in New York City specializing in covering business stories through the lens of data. I am currently pursuing an M.S in Data Journalism.
+I'm a journalist based in New York City specializing in covering business stories through the lens of data. I am currently pursuing an M.S in Data Journalism. On this website, you can find my data projects. 
 
 ## Contact
 
 Feel free to reach out to me at [ml4998@columbia.edu](mailto:ml4998@columbia.edu)
 
-This repository includes two main Jupyter notebooks:
+## Projects
 
-1. **BBC Movie Data Scraping**: The first notebook is dedicated to scraping a [BBC page](<link-to-BBC-page>) for various details including:
-   - Movie names
-   - Director names
-   - Critic names and their nationalities
-   - Release years
+
+In the BBC movie project, I scraped this BBC website using Beautiful Soup, Playwright, and regular Expressions. As a result, I created a searchable database (multiple CSV files) that includes a list of all the directors from the website, movie names, critic names, director nationalities, and links to their homepages on IMBD. 
+
    
-   The output of this notebook is a CSV file containing all the above information.
 
-2. **Director Nationalities and IMDB Links Scraping**: The second notebook focuses on extracting the following data from another [web page](<link-to-second-page>):
-   - Nationalities of directors
-   - Links to their personal pages on IMDB
 
-   This process results in two CSV files: one with the nationalities of 330 directors, and another with a mapped list of these nationalities.
+
+
+
+
+
 
 
 
