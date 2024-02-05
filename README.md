@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a journalist based in New York City specializing in covering business stories through the lens of data. I am currently pursuing an M.S in Data Journalism. On this website, you can find my data projects. 
+I'm a journalist based in New York City and cover business stories through the lens of data. I am currently pursuing an M.S in Data Journalism. On this website, you can find my data projects. 
 
 ## Contact
 
