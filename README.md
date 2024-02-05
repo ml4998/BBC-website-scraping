@@ -13,20 +13,6 @@ Feel free to reach out to me at [ml4998@columbia.edu](mailto:ml4998@columbia.edu
 ### BBC 21st century greatest films
 
 
-<div>
-  <img src="BBC.jpg" alt="Description" style="float: left; margin-right: 20px; width: 300px;" />
-  <p>
-    In the BBC movie project, I scraped this BBC website using Beautiful Soup, Playwright, and regular Expressions. As a result, I created a searchable database (multiple CSV files) that includes a list of all the directors from the website, movie names, critic names, director nationalities, and links to their homepages on IMBD. 
-  </p>
-</div>
-<div style="clear: both;"></div>
-
-
-<img src="BBC.jpg" width="300" height="200">
-
-In the BBC movie project, I scraped this BBC website using Beautiful Soup, Playwright, and regular Expressions. As a result, I created a searchable database (multiple CSV files) that includes a list of all the directors from the website, movie names, critic names, director nationalities, and links to their homepages on IMBD. 
-
-
 <table>
   <tr>
     <!-- Image cell -->
